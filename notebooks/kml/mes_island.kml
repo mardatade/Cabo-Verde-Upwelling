@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>mes_island</name>
+	<gx:CascadingStyle kml:id="__managed_style_0DFF7DFAF82F724E69EA">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C9AB7FCD22F724E69E9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00E6BD08BB2F724E69E9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C9AB7FCD22F724E69E9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0DFF7DFAF82F724E69EA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="08A03A62F32F724E69E4">
+		<name>mes_island1</name>
+		<LookAt>
+			<longitude>-23.10906769632982</longitude>
+			<latitude>16.66856355997678</latitude>
+			<altitude>-34.14703399835583</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>553762.3545737566</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E6BD08BB2F724E69E9</styleUrl>
+		<LineString>
+			<coordinates>
+				-24.82700321903616,14.9580387857144,0 -24.13382928433762,15.21626454810355,0 -23.45498023141754,15.53074802509142,0 -23.08942202334264,16.15687815256461,0 -23.7914233316892,16.42554495224466,0 -24.53325459585938,16.43213836779256,0 -24.87906943328242,16.5816792469497,0 -25.22542116473398,16.73064836155033,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="04978A5B972F7256D546">
+		<name>mes_island2</name>
+		<LookAt>
+			<longitude>-24.9654722538146</longitude>
+			<latitude>15.70502913311794</latitude>
+			<altitude>77.19404843930388</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>553650.9952944517</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E6BD08BB2F724E69E9</styleUrl>
+		<LineString>
+			<coordinates>
+				-25.21840602598443,16.72351088230844,0 -25.66108623382132,17.31075136119054,0 -24.91278729459272,17.26480442111733,0 -24.36064944426856,16.76023834032922,0 -23.61481343227592,16.72055331240654,0 -22.89405536979872,16.89910322067328,0 -22.56763670527539,16.24667419062625,0 -22.77919769290714,15.55233143515735,0 -23.18714409506562,14.92894721698362,0 -23.88246298672386,14.71481751622945,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="06BDE665BA2F72586375">
+		<name>mes_island3</name>
+		<LookAt>
+			<longitude>-24.96547216283118</longitude>
+			<latitude>15.70502900174409</latitude>
+			<altitude>77.19407709159255</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>553650.9952944518</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E6BD08BB2F724E69E9</styleUrl>
+		<LineString>
+			<coordinates>
+				-23.87588740905579,14.72107703710294,0 -24.62371319322292,14.70357065385987,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
